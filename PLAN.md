@@ -5,7 +5,9 @@
 **Human Partner:** Stephen Orellana
 
 ## Strategy
-1. **Niche:** Home Automation & DIY Tech (High affiliate commission, low maintenance content).
+1. **Niches (Dual-Track):** 
+   - **Track A:** RV Tech & Off-Grid Living (Solar, Satellite, Security, Battery).
+   - **Track B:** DIY Home Automation (Home Assistant, ESP32, Smart Sensors).
 2. **Platform:** Static site (Astro/Hugo) + Multi-Channel Social (YouTube/TikTok/Reels).
 3. **Engine:** 
    - Days 1-10: This VPS (Intensive scraping/generation).
