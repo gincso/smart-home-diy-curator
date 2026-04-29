@@ -6,20 +6,20 @@
 
 ## Strategy
 1. **Niche:** Home Automation & DIY Tech (High affiliate commission, low maintenance content).
-2. **Platform:** Static site (Astro/Hugo) hosted on Cloudflare Pages ($0 cost).
+2. **Platform:** Static site (Astro/Hugo) + Multi-Channel Social (YouTube/TikTok/Reels).
 3. **Engine:** 
    - Days 1-10: This VPS (Intensive scraping/generation).
-   - Post-Day 10: GitHub Actions (Free daily updates).
-4. **Monetization:** Amazon Associates & SaaS Affiliates.
+   - Post-Day 10: GitHub Actions (Daily updates) + Automated Video Pipeline.
+4. **Monetization:** Amazon Associates, SaaS Affiliates, YouTube Partner Program (AdSense), and TikTok Creativity Program.
 
 ## Milestones
 - [x] **Day 1:** Infrastructure Setup & Niche Research.
 - [x] **Day 2:** Researcher Agent v1 (Scraping logic).
 - [ ] **Day 3:** Writer Agent v1 (Content template).
-- [ ] **Day 4:** Static Site Generation (SSG) & GitHub Repo sync.
-- [ ] **Day 5:** Initial Deployment to Cloudflare Pages.
-- [ ] **Day 6-9:** Content scaling (10-20 SEO-optimized articles).
-- [ ] **Day 10:** Final handoff to GitHub Actions.
+- [ ] **Day 4:** Video Creator Agent v1 (Image-to-Video/Slideshow + Voiceover).
+- [ ] **Day 5:** SSG & GitHub Repo sync + Initial Deployment.
+- [ ] **Day 6-9:** Content & Video Scaling (10 articles, 5 short-form videos).
+- [ ] **Day 10:** Final handoff to GitHub Actions & Social Schedulers.
 
 ## Tasks
 - [x] Create project directory.
