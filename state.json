@@ -1,0 +1,11 @@
+{
+  "project": "Evergreen Curator",
+  "niche": "Home Automation & DIY Smart Home Tech",
+  "last_check": 1777320600,
+  "status": "researching",
+  "config": {
+    "output_dir": "dist",
+    "generation_limit": 5,
+    "vps_deadline": "2026-05-07"
+  }
+}

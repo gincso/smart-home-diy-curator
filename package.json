@@ -1,0 +1,10 @@
+{
+  "name": "evergreen-curator",
+  "version": "1.0.0",
+  "description": "Autonomous AI content curator for smart home tech",
+  "main": "index.js",
+  "scripts": {
+    "generate": "echo 'Run generator agent here'"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,27 @@
+{
+  "niche": "Home Automation & DIY Smart Home Tech",
+  "timestamp": 1777321551356,
+  "findings": [
+    {
+      "category": "Smart Security",
+      "items": [
+        "AI-powered 4K Solar Cameras",
+        "Biometric Smart Locks"
+      ]
+    },
+    {
+      "category": "Energy Management",
+      "items": [
+        "Smart Electrical Panels",
+        "AI-tuned Thermostats"
+      ]
+    },
+    {
+      "category": "Wellness Tech",
+      "items": [
+        "Circadian Smart Lighting",
+        "Air Quality Monitoring Hubs"
+      ]
+    }
+  ]
+}
