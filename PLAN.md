@@ -14,7 +14,7 @@
 
 ## Milestones
 - [x] **Day 1:** Infrastructure Setup & Niche Research.
-- [ ] **Day 2:** Researcher Agent v1 (Scraping logic).
+- [x] **Day 2:** Researcher Agent v1 (Scraping logic).
 - [ ] **Day 3:** Writer Agent v1 (Content template).
 - [ ] **Day 4:** Static Site Generation (SSG) & GitHub Repo sync.
 - [ ] **Day 5:** Initial Deployment to Cloudflare Pages.
